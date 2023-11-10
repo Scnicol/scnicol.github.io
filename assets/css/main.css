@@ -134,11 +134,7 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	.skills {
-		font-style: italic;
-  		font-size: 16px;
-		font-weight: bold;
-	}
+
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #787878;
@@ -2574,7 +2570,7 @@ input, select, textarea {
 		}
 
 		.work-item p {
-			font-size: 0.8em;
+			font-size: 1.0em;
 			line-height: 1.5em;
 			margin: 0;
 		}
